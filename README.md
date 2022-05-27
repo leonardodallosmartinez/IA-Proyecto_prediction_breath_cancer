@@ -6,7 +6,7 @@
 Leonardo Hernando Dallos Martínez
 
 # Recursos
-- Dataset: Los datos para el estudio se obtienen a partir de un dataset de Wisconsin en el cual se detallan características de mediciones para cada muestra como lo son el radio, perímetro, área, suavidad Y una clase discriminadora para saber si es benigna o maligna. [Ver].(https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- Dataset: Los datos para el estudio se obtienen a partir de un dataset de Wisconsin en el cual se detallan características de mediciones para cada muestra como lo son el radio, perímetro, área, suavidad Y una clase discriminadora para saber si es benigna o maligna. [Ver](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
 - Herramientas: Python, Jupyter Notebook, Bibliotecas como Pandas, SK Learn, Numpy.
 - Modelos clasificatorios:  GaussianNB, DecisionTreeClasifier, RandomForest, SVC
 
