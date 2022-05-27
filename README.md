@@ -6,9 +6,13 @@
 Leonardo Hernando Dallos Martínez
 
 # Recursos
-- Dataset: [Ver](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- Dataset: Los datos para el estudio se obtienen a partir de un dataset de Wisconsin en el cual se detallan características de mediciones para cada muestra como lo son el radio, perímetro, área, suavidad Y una clase discriminadora para saber si es benigna o maligna. [Ver].(https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- Herramientas: Python, Jupyter Notebook, Bibliotecas como Pandas, SK Learn, Numpy.
+- Modelos clasificatorios:  GaussianNB, DecisionTreeClasifier, RandomForest, SVC
 
 # Resumen y resultados del proyecto
 - [Proyecto IA- prediction breath cancer.pdf](https://github.com/leonardodallosmartinez/IA-Proyecto_prediction_breath_cancer/files/8787844/Proyecto.IA-.prediction.breath.cancer.pdf)
 - [Video explicativo](https://www.youtube.com/watch?v=YESfHDqyES8)
 
+# Contacto
+- Correo: leo3.14@hotmail.com
